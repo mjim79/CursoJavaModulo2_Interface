@@ -1,0 +1,21 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# Changes to be committed:
+#	modified:   bin/cursojavamodulo2/Circulo.class
+#	modified:   bin/cursojavamodulo2/Cuadrado.class
+#	modified:   bin/cursojavamodulo2/Figura.class
+#	modified:   bin/cursojavamodulo2/Rectangulo.class
+#	modified:   bin/cursojavamodulo2/Triangulo.class
+#	modified:   bin/testfiguras/FigurasApp.class
+#	modified:   src/cursojavamodulo2/Circulo.java
+#	modified:   src/cursojavamodulo2/Cuadrado.java
+#	modified:   src/cursojavamodulo2/Figura.java
+#	modified:   src/cursojavamodulo2/Rectangulo.java
+#	modified:   src/cursojavamodulo2/Triangulo.java
+#	modified:   src/testfiguras/FigurasApp.java
+#
+

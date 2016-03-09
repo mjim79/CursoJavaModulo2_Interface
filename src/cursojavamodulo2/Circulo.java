@@ -2,8 +2,8 @@ package cursojavamodulo2;
 
 public class Circulo implements Figura {
 	// atributos de la clase
-	Punto p;
-	double radio;
+	private Punto p;
+	private double radio;
 	
 	// constructor
 	public Circulo(Punto punto, double radio) {
@@ -14,7 +14,7 @@ public class Circulo implements Figura {
 	// implementación de métodos del interfaz
 	@Override
 	public double area() {
-		return 3.14 * radio * radio;
+		return 3.14 * PI * radio;
 	}
 
 	@Override

@@ -15,4 +15,10 @@ public class Cuadrado extends Rectangulo {
 		return lado*lado;
 	}
 	
+	@Override
+	public void pintar() {
+		System.out.println("Pintando Cuadrado en la posición (" + p.getX() + "," + p.getY() + ")");
+		
+	}
+	
 }

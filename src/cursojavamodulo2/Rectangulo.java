@@ -2,9 +2,9 @@ package cursojavamodulo2;
 
 public class Rectangulo implements Figura {
 
-	Punto p;
-	double ancho;
-	double alto;
+	protected Punto p;
+	private double ancho;
+	private double alto;
 	
 	public Rectangulo(Punto p, double ancho, double alto) {
 		this.p = p;

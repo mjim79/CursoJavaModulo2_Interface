@@ -2,10 +2,10 @@ package cursojavamodulo2;
 
 public class Triangulo implements Figura {
 	
-	Punto p;
-	double lado1;
-	double lado2;
-	double lado3;
+	private Punto p;
+	private double lado1;
+	private double lado2;
+	private double lado3;
 
 	public Triangulo(Punto p, double l1, double l2, double l3) {
 		this.p = p;
